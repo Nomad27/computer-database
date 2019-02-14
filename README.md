@@ -9,10 +9,15 @@ Pre-requisite - Chrome and Eclipse should be installed on the machine
 Project Configuration Steps
 
 Clone this repository
+
 Import project in Eclipse
+
 Build maven project
+
 Right click on 'testng.xml'
+
 Run as TestNG suite
+
 Location of report (Refresh the project to find reports)
 
 TestNG report will be available in test-output -> index.html
